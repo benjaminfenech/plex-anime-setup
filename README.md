@@ -4,4 +4,4 @@ Automates setup of the following projects to get Plex ready for scanning Anime m
 https://github.com/ZeroQI/Absolute-Series-Scanner  
 https://github.com/ZeroQI/Hama.bundle  
 
-
+Requires plex to be installed before running.
